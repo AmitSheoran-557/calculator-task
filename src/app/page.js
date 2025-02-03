@@ -1,11 +1,11 @@
 import Calculator from "./components/Calculator";
-import Creativity from "./components/Creativity";
+// import Creativity from "./components/Creativity";
 
 export default function Home() {
   return (
     <>
       <Calculator />
-      <Creativity />
+      {/* <Creativity /> */}
     </>
   );
 }
